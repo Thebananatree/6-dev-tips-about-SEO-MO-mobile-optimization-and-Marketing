@@ -18,15 +18,15 @@
     3.노출(설명) 되는 곳 - 구글,네이버에 키워드 검색시, 해당 결과 웹페이지 urlor웹페이지 이름 밑이나, 링크밑의 GNB 밑에 뜬다. 
         네이버
             [PC]
-                (1).
+                (1).설명노출란
             [모바일]
-                (2).
+                (2).설명노출란
 .                
         구글
             [PC]
-                (1).
+                (1).설명노출란
             [모바일]
-                (2).
+                (2).설명노출란
 .                
         추가내용 :
             1.네이버 모바일에서 웹사이트 검색시에 결과의 url이 m.도메인.com으로 안뜨고 www.도메인.com 혹은 도메인.com으로 뜨는 것
@@ -87,32 +87,20 @@
                 고 볼 수 있다.
                 (구글 검색은 상관없다.)
 .
-[링크 : ]
-.
-    거기다가 디시인사이드가 오히려 canonical url을 안써서 네이버에 디시인사이드 쳤을때, 디시인사이드 갤러리가 뜨는 거일 수도 있다.
-    [링크 : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=1060107&docId=348816075&qb=64Sk7J2067KEIOuplOyduOyCrOydtO2KuA==&enc=utf8&section=kin&rank=3&search_sort=0&spq=0]
-    아니면 구글에 디시인사이드, 디시인사이드 갤러리 쳤을때 각각 m.dcinside.com이 뜨는건 맞지만 서로 다른 html파일을 분석한게 
-    canonical 태그가 없어서 그런거 아닌가?
-    .
-    구글 m.dcinside.com가보면 카카오 맞춤형 광고랑 구글 광고 있는데??
-.        
 #####(1).전체태그
 .
-    < meta name="description" content
+    < meta name="description" content="~">
 .    
 #####(2).기능
 .
-    ㅁ
+    네이버 혹은 구글 SEO반영이나, 구글이나 네이버 검색결과의 설명노출란에 표시된다.
 .
-#####(3).사용법
+#####(3).위치
 .
-    ㅁ
-.    
-#####(4).위치
+    보통 < meta name="keywords" content="~">의 태그 다음에 온다.
+    (더쿠, 인스티즈 ..)
 .
-    ㅁ
-.
-####(5).타 웹사이트 태그예시    
+####(4).타 웹사이트 태그예시    
 .
     1.더쿠(PC,모바일)
         < meta name="description" content="국내외 이슈 정보 커뮤니티. 일상, 유머, 생활정보, 연예, 국내아이돌, 일본아이돌, 드라마, 배우, 축구, 야구, 배구, 스포츠, 이슈, 뉴스, 시사, 뷰티, 애니, 각종 취미 등">
@@ -131,32 +119,3 @@
     4.아누앤헨(PC,모바일) + (유일하게, meta property description과 meta name description이 다르다.)
         < meta name="description" content="인도 핸드메이드 패브릭 브랜드, 자체제작 침구, 의류, 소품, 원단 직수입, 인도 그릇, 구매대행 서비스 등">
 .       
-
-아, 더쿠 서브페이지 내용들이(글 제목아님) meta description으로 들어가고,
-제목은 title로 들어가네.
-
-공유하기할때 표현된다는데 이거 알아보기
-
-그리고 네이버나 구글 검색에 밑에도 나오던데 그것도
-
-서브페이지 밑에 나오는것도, 즉 그 안에 글같은거 브라우저검색시 뜨는거
-
-그 외에도, 그냥 링크 공유해도 그 안에 description내용이 뜨네
-https://kin.naver.com/qna/detail.nhn?d1id=2&dirId=2010605&docId=334502827&qb=6rWt64K07Jm4IOydtOyKiCDsoJXrs7Qg7Luk666k64uI7Yuw&enc=utf8&section=kin&rank=1&search_sort=0&spq=0
-https://blog.naver.com/moojuk01v/221775115105
-
-https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10501&docId=351849344&qb=64Sk7J2067KEIOybueyCrOydtO2KuCDrk7HroZ0g7J2066aE&enc=utf8&section=kin&rank=1&search_sort=0&spq=0
-엥 뭐야 og:description도 충분히 알아야 겠는데??
-
-타이틀이나, description이 오히려 네이버,구글 글 검색이나 웹사이트 노출에 더 도움이되고
-description은 홈페이지 공유할때 거기에 description내용이 들어가고, 상세 글은 내용이 들어가기 때문이다.
-title은 웹사이트 이름이나 상세 글의 제목이기 때문에 그렇다.
-keywords meta태그는 거의 아예 영향을 안주는거같다.
-+ 더 찾아봐야 하긴한다.
-
-
-
-
-사이트 설명, description에 해당하는 내용이 가끔반영되지않고, 본문 텍스트가
-대신해서 표시될 수도 있다함.
-https://imweb.me/faq?mode=view&category=29&category2=35&idx=28230

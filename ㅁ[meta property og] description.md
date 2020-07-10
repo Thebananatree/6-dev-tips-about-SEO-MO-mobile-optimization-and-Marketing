@@ -1,29 +1,23 @@
 ###[meta property] description
 
-#####(0).앞서 알아야 할 내용  
+####(0).앞서 알아야 할 내용  
 .
     0.오픈 그래프는 미리보기 화면의 실체를 구성하는 새로운 표기방법이다.
     [링크 : https://could.tistory.com/10]
-.    
-    ㅁ
 .
-#####(1).전체태그
+####(1).전체태그
 .
     ㅁ
 .
-#####(2).기능
+####(2).기능
 .
     ㅁ
 .
-#####(3).사용법
-.
-    ㅁ
-.    
-#####(4).위치
+####(3).위치
 .
     ㅁ
 .
-####(5).타 웹사이트 태그예시    
+####(4).타 웹사이트 태그예시    
 .
    1.더쿠(PC,모바일)
        < meta property="og:description" content="국내외 이슈 정보 커뮤니티. 일상, 유머, 생활정보, 연예, 국내아이돌, 일본아이돌, 드라마, 배우, 축구, 야구, 배구, 스포츠, 이슈, 뉴스, 시사, 뷰티, 애니, 각종 취미 등">
@@ -43,3 +37,12 @@
        < meta property="og:description" content="인도 핸드메이드 브랜드">
        < meta property="og:description" content="인도 핸드메이드 패브릭 브랜드">
 .
+
+
+
+그 외에도, 그냥 링크 공유해도 그 안에 description내용이 뜨네
+https://kin.naver.com/qna/detail.nhn?d1id=2&dirId=2010605&docId=334502827&qb=6rWt64K07Jm4IOydtOyKiCDsoJXrs7Qg7Luk666k64uI7Yuw&enc=utf8&section=kin&rank=1&search_sort=0&spq=0
+https://blog.naver.com/moojuk01v/221775115105
+이거
+근데
+name description도 해보기
