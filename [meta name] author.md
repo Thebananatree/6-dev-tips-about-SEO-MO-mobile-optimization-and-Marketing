@@ -10,6 +10,9 @@
 .
     3.인스티즈,더쿠 아무데서도 안쓰고 디시인사이드에서만 쓰였다.    
 .    
+    4.예전에는 이렇게 author가 따로 표시됬었나 보다. 그러나 지금 한국 매체에서는 전혀 안나타난다.
+        [링크 : https://webdesign.tutsplus.com/tutorials/open-graph-take-control-of-how-social-media-shares-your-web-pages--cms-27927]
+.        
 #####(1).전체태그
 .
     < meta name="author" content="제작자이름">
