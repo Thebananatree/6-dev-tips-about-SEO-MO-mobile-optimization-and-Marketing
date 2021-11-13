@@ -6,4 +6,4 @@
 2.찾아보니, 크롬 확장 프로그램중 ColorZilla라는 것을 내가 크롬에 등록해놔서, 내 웹사이트 뿐만
     아니라, 다른 웹사이트 들어갈 때도 적용되는것이였다.
 .
-[추가 링크 : https://twitter.com/brianpemberton/status/201455628143689728]    
+[추가 참조링크 : <https://twitter.com/brianpemberton/status/201455628143689728>]    

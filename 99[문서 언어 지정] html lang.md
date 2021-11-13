@@ -15,7 +15,7 @@
     4.구찌 웹사이트는 하위디렉토리열기방식 인데, 나라언어별 lang이 각각 전부다르며, 상세페이지도 나라언어별 lang이 모두 다르다.   
 .    
     [추가 참고문헌 : Do it HTML 43pg ~ 44pg]   
-    [추가 링크 : https://blog.naver.com/itcatinfo/221818442510]
+    [추가 참조링크 : <https://blog.naver.com/itcatinfo/221818442510>]
 .    
 ####(1).전체태그
 .

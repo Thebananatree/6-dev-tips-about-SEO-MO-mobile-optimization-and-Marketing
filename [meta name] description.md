@@ -5,15 +5,15 @@
     1.검색 엔진들이 검색 결과에서 페이지의 정보를 미리 보여주기 위해서 meta description을 자주 사용한다.
         즉, meta description 태그는 웹페이지의 축약된 설명을 제공하는 태그로, 검색결과 페이지에서 검색자(이용자)에게
         페이지의 요약내용을 미리 보여주는 부분이다.
-        [링크 : https://mathbang.net/402]   
-        [링크 : https://blog.naver.com/neoworld2009/221841712971]
+        [참조링크 : <https://mathbang.net/402>]   
+        [참조링크 : <https://blog.naver.com/neoworld2009/221841712971>]
 .
     2.키워드로 채우는 것은 피하고, 각 페이지의 교유의 description을 갖도록 해야한다. 즉, 웹사이트의 모든
         페이지에 동일한 description 메타 태그를 사용하지 않는것이 좋다. 그 예로 더쿠,인스티즈는 메인,글 목록까지는 description이 같은데, 세부 글 내용들어가면 
         그 글의 본문 내용들이 description으로 들어간다. 디시인은 메인, 글 목록, 세부 글 모두 description모두 다르다. 또 디시인 세부 글 들어갔을때 description이 글 본문 인데,
         어느정도 본문이 description에 적히다가 끊긴다. 또한 meta property description과 적혀지는게 똑같다.(끊어지는것도 똑같)         
-        [링크 : https://mathbang.net/402]   
-        [링크 : https://vanplenetworks.com/ko/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-description-%EB%A9%94%ED%83%80-%ED%83%9C%EA%B7%B8/]
+        [참조링크 : <https://mathbang.net/402>]   
+        [참조링크 : <https://vanplenetworks.com/ko/%EA%B2%80%EC%83%89%EC%97%94%EC%A7%84-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-description-%EB%A9%94%ED%83%80-%ED%83%9C%EA%B7%B8/>]
 .
     3.노출(설명) 되는 곳 - 구글,네이버에 키워드 검색시, 해당 결과 웹페이지 urlor웹페이지 이름 밑이나, 링크밑의 GNB 밑에 뜬다. 
         네이버
@@ -67,14 +67,14 @@
                     -> 하지만 일베사이트(meta name description이 없고,meta og description만 있다.)는 네이버에 검색시에 본문내용이 뜨지 않는다.
                 2.아니면 description에 너무 적게 적어서 본문내용이 들어간거다 
                     -> 신세계백화점(meta name description반영),일베(meta og description반영),인스티즈(meta name description 반영)의 경우 contents가 충분히 적은데, 본문내용이 안뜬다.
-                    [링크 : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10504&docId=335222437&qb=64Sk7J2067KEIO2KueyglSDri6jslrQg6rKA7IOJ7IucIOybueyCrOydtO2KuA==&enc=utf8&section=kin&rank=1&search_sort=0&spq=0]
+                    [참조링크 : <https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=10504&docId=335222437&qb=64Sk7J2067KEIO2KueyglSDri6jslrQg6rKA7IOJ7IucIOybueyCrOydtO2KuA==&enc=utf8&section=kin&rank=1&search_sort=0&spq=0>]
                 3.본문컨텐츠나, 웹페이지완성도(태그들)이 부족하여 그렇게 뜰 수도 있다.
                 이렇게 추측해볼 수 있다.
                 +
                 종결.
                 네이버에 키워드를 적어 검색하였을때 설명노출란에 그 해당 홈페이지의 description 태그의 내용보다 본문에 표시되고
                 있는 내용이 더 잘 해당 웹사이트를 나타낸다고 하면 네이버 검색시스템이 해당 사이트의 description대신 본문 텍스트가 설명 노출란에 표시될 수 있다 한다.
-                [링크 : https://imweb.me/faq?mode=view&category=29&category2=35&idx=28230]
+                [참조링크 : <https://imweb.me/faq?mode=view&category=29&category2=35&idx=28230>]
 .                
             5.네이버는 모바일에서는 '기업정보 펼쳐보기', PC에서는 '기업정보'란이 있는데, NICE평가정보의 기업정보를 등록하면 설정되는것으로, 
                 웹사이트 검색시뜨는 설명노출란에 description에 적어놓는 내용은 안보이고, 이 기업정보의 설명글이 대신 노출된다. 예를들어, 쿠팡은

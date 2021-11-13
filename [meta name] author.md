@@ -3,7 +3,7 @@
 #####(0).앞서 알아야 할 내용  
 .
     1.웹사이트의 소유자(또는 회사)를 적는다.
-        [링크 : https://junhobaik.github.io/meta-tag/]
+        [참조링크 : <https://junhobaik.github.io/meta-tag/>]
 .    
     2.html 파일 크기만 차지하기 때문에, 이용하지 않는 사이트가 대부분이나, 장문의 태그가
     아니기에 넣고싶다하면 넣어도 된다.
@@ -11,7 +11,7 @@
     3.인스티즈,더쿠 아무데서도 안쓰고 디시인사이드에서만 쓰였다.    
 .    
     4.예전에는 이렇게 author가 따로 표시됬었나 보다. 그러나 지금 한국 매체에서는 전혀 안나타난다.
-        [링크 : https://webdesign.tutsplus.com/tutorials/open-graph-take-control-of-how-social-media-shares-your-web-pages--cms-27927]
+        [참조링크 : <https://webdesign.tutsplus.com/tutorials/open-graph-take-control-of-how-social-media-shares-your-web-pages--cms-27927>]
 .        
 #####(1).전체태그
 .

@@ -10,13 +10,13 @@
     2.ecu-kr 과 utf-8은 호환성이 없다. 즉, 웹 문서 작성할때, ecu-kr로 설정하여 저장하고, meta태그는 utf-8하면 깨진다.
         그 이유는, ecu-kr과 utf-8은 아예 적용 원리 방식이 다르기 때문이다.(한글2020으로 저장한걸, ppt로 읽으려는 형태)
         ecu-kr은 영어, 특수문자, 한글을 포함하고 utf-8은 영어포함한 전세계 문자(utf-8을 유니코드라고도한다.)를 포함한다.
-        [링크 : https://blog.naver.com/terrypark93/221266103970]   
-        [링크 : https://norux.me/31 - EUC-KR과 UTF-8의 원리]
+        [참조링크 : <https://blog.naver.com/terrypark93/221266103970>]   
+        [참조링크 : <https://norux.me/31 - EUC-KR과 UTF-8의 원리>]
 .
     3.요즘에는 파일 자체가 보통 utf-8로 되어있다. VS code에서는 기본 파일의 문자인코딩 설정이 UTF-8로 되어있으며,
         바꾸는 방법은 아래 사진과 같다. 또한 파일의 설정된 문자인코딩은 VC code로 작성하는경우 우측하단에 적혀있다.
         <img src="img/1.png">
-        [링크 : https://blog.naver.com/seongeun_tru/221626111454]
+        [참조링크 : <https://blog.naver.com/seongeun_tru/221626111454>]
 .
     4.utf-8을 쓰던 UTF-8을 쓰던, 상관없는것같지만(네이버,더쿠, 그리고 Do it 책은 모두 소문자 utf-8을 쓴다.
         Do it 35pg에 보듯이, HTML5 표준 명세에서는 태그와 그 태그 안에 사용하는 속성들은 모두 소문자로 사용할 것을
@@ -32,7 +32,7 @@
         (1).< meta charset="utf-8"> - 주로 HTML5에서 사용되는 형식        
         (2).< meta http-equiv="Content-Type" content="text/html; charset=utf-8"> - 주로 HTML 4.01에서 사용되는 형식 이였다. ,XHTML에서도 쓰임   
         HTML5에서는 두가지 방법 다 지원하지만, 짧은 버전(1형태)를 사용하는 경우가 많다.
-        [링크 : https://ofcourse.kr/html-course/%EC%9D%B8%EC%BD%94%EB%94%A9]
+        [참조링크 : <https://ofcourse.kr/html-course/%EC%9D%B8%EC%BD%94%EB%94%A9>]
 .
     7.JS파일도 문자인코딩을 어떤방식으로 저장할지 지정해야한다, 또한 html파일처럼 브라우저가 어떤 방식의 문자인코딩을 써서 읽을지도 지정해야한다.(즉, html파일과 동일)
         그러나, VS code에 보면 JS파일은 파일 인코딩 설정이 utf-8로 되어있고, script src로 해당 js파일이 연결된경우 해당 html
@@ -48,16 +48,16 @@
         사용한다고 한다. 또한 < script>태그에 src속성을 사용하는 경우에만 charset속성을 사용할 수 있다한다. 이는 HTML4.1의 표준이며, HTML5에서도 변동사항이 없다한다.
         사용법은 < script type="text/javascript" src="path/file.js" charset="utf-8">< /script> 와 같이 쓴다. 추가로 script태그의 charset속성에 기술 된 문자셋은
         HTML파일의 문자인코딩 설정과 상관없이 인식된다 한다.
-        [링크 : http://www.w3big.com/ko/tags/att-script-charset.html]   
-        [링크 : http://www.tcpschool.com/html-tag-attrs/script-charset]   
+        [참조링크 : <http://www.w3big.com/ko/tags/att-script-charset.html>]   
+        [참조링크 : <http://www.tcpschool.com/html-tag-attrs/script-charset>]   
 .        
     8.CSS파일도 문자인코딩을 어떤방식으로 저장할지 지정해야한다., 또한 html파일처럼 브라우저가 어떤 방식의 문자인코딩을 써서 읽을지도 지정해야한다.(즉, html파일과 동일)
         근데 CSS에서 사용하는 이유가 속성값 돋움 같은것과 after content 한글 같은것을 쓸때 해석하기위함이다. 설정방법은 css파일 안에 직접 코드를 적는데, 맨 위 상단에 
         @charset "utf-8"; 를 적는다. 근데 거의 모든 css파일의 맨상단에 이 코드가 적혀져 있다. 그 말은 이는 HTML에서 설정한 charset 문자인코딩 방식을 따라간다기보다(js파일처럼)  
         의무적으로 추가를 해주어야 하는것 같다. 또한, html 파일 내에 내부스타일 시트(< style>,< /style>)로 적은 태그는 @charset "utf-8";는 따로 적지않고(적용도 안되는걸로 안다.),
         html파일 내에 설정한 meta charset설정에 따라 브라우저가 해석하는 것으로 안다. 이 @charset "utf-8"은 CSS2.1 표준에 정의되어 있다.
-        [링크 : https://taegon.kim/archives/1271]   
-        [링크 : https://frontdev.tistory.com/77]
+        [참조링크 : <https://taegon.kim/archives/1271>]   
+        [참조링크 : <https://frontdev.tistory.com/77>]
 .
 ####(1).전체태그
 .

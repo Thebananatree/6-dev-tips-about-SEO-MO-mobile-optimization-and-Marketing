@@ -15,9 +15,9 @@
         하지만 IE10이하의 버전에서는 고려해야 한다.
         결론은 
         최신 웹 제작은 모두, X-UA-Compatible 설정시 IE=edge만 해주면된다.
-        [링크 : https://cafe.naver.com/hacosa/53342]    
-        [링크 : https://meaningone.tistory.com/212]   
-        [링크 : https://aboooks.tistory.com/357]
+        [참조링크 : <https://cafe.naver.com/hacosa/53342>]    
+        [참조링크 : <https://meaningone.tistory.com/212>]   
+        [참조링크 : <https://aboooks.tistory.com/357>]
 .
     2.인터넷 익스플로러(IE)만을 위한 코드로, 다른 브라우저들은 이 < meta> 코드를 무시한다.
 .    
@@ -25,12 +25,12 @@
         디시인사이드만 모바일 버전의 html에서 넣어주는데, 딱히 안넣어 줘도 될것같다.
 .    
     4.문서유형 선먼운( ex)html5문서라면, < !DOCTYPE html>)선언과 함께 사용해야 유효한 기능을 낸다.
-        [링크 : https://aboooks.tistory.com/357]
+        [참조링크 : <https://aboooks.tistory.com/357>]
 .    
-    [추가 참고링크 : https://webdir.tistory.com/38]   
-    [추가 참고링크 : https://blog.naver.com/mainata/220371969399]   
-    [추가 참고링크 : https://webisfree.com/2016-03-23/meta-%ED%83%9C%EA%B7%B8-http-equiv-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90]   
-    [추가 참고링크 : https://blog.naver.com/desict/221299310400]
+    [추가 참조링크 : <https://webdir.tistory.com/38>]   
+    [추가 참조링크 : <https://blog.naver.com/mainata/220371969399>]   
+    [추가 참조링크 : <https://webisfree.com/2016-03-23/meta-%ED%83%9C%EA%B7%B8-http-equiv-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95%EA%B3%BC-%EC%B0%A8%EC%9D%B4%EC%A0%90>]   
+    [추가 참조링크 : <https://blog.naver.com/desict/221299310400>]
 .    
 ####(1).전체태그
 .

@@ -4,15 +4,15 @@
 .
     1.해당 메타 태그를 사용하면 지정한 시간(초) 이후 지정한 url로 자동으로 페이지를 이동시킬 수 있다.
         content에는 초 단위로 시간을 지정하고 0일 경우에는 즉시 이동한다. 또한 단위는 생략하고 숫자만 넣는다. 
-        [링크 : https://junhobaik.github.io/meta-tag/]
+        [참조링크 : <https://junhobaik.github.io/meta-tag/>]
 .
     2.해당 태그는 권장되지 않는다. 자동으로 url 리다이렉션은 최근 웨에서는 지양하고 있으며 피싱 등의 위험으로 간주 될 수 있다.
         또한 5초로 리다이렉트를 지정해놓았는데 그 전에 사용자가 뒤로가기를 하는 경우에 뒤로가기를 했는데도 5초 후 지정한 url로 이동
         될 수 있으니 사용하지 않는 것이 좋다. 즉, 사용자 통제를 빼앗는다.
-        [링크 : https://junhobaik.github.io/meta-tag/]
+        [참조링크 : <https://junhobaik.github.io/meta-tag/>]
 .
     3.이 태그말고 서버측에서 하는 더 나은 방법이 있다고 한다. 네이버와 비슷한 방식일듯
-        [링크 : https://aboooks.tistory.com/339]
+        [참조링크 : <https://aboooks.tistory.com/339>]
 .
 ####(1).전체태그
 .

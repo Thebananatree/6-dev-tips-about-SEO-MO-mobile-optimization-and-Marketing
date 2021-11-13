@@ -5,17 +5,17 @@
     1.메타 키워드 태그는 본래 검색엔진에 대해서 키워드에 따른 웹페이지의 내용을 전달하는 것을 목적으로 하나
         구글 SEO와 네이버 SEO는 악용우려로 meta의 keywords속성을 참고하지 않는다고 한다. 그러나 구글 정책이나
         다른 SEO정책이 어떻게 바뀔지는 모르니 적어두는게 좋다는 얘기다.
-        [링크 : https://studio5ing.tistory.com/25]
+        [참조링크 : <https://studio5ing.tistory.com/25>]
         [링크 : https://webisfree.com/2014-09-09/[seo]-meta-%ED%83%9C%EA%B7%B8-keywords(%ED%82%A4%EC%9B%8C%EB%93%9C)-%EC%86%8D%EC%84%B1%EC%9D%98-%EC%A7%84%EC%8B%A4-%EC%8B%A4%EC%A0%9C-seo-%EC%A0%90%EC%88%98%EC%97%90-%EB%AF%B8%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5%EC%9D%80-%EC%97%86%EB%8B%A4]   
         But, bing에서는 아직 활용하고 있다는 얘기도. 
-        [링크: https://myseolabo.com/seo/meta-tag/]
+        [참조링크: <https://myseolabo.com/seo/meta-tag/>]
 .    
     2.더쿠, 인스티즈에서는 사용하나 디미토리,네이버,디시인에서는 사용하지 않는다.
 .    
     3.인스티즈는 대표 GNB바 이름들을 keywords로 넣었고(인티 리뉴얼 하면서 조금 달라졌다.), 더쿠는 포괄적 단어들을 keywords로 넣었다.
         (근데 뭔가, keywords가 본문 안에 있어야 할 것 같은 느낌이 든다. 대표사이트가 인스티즈만 된것도 그렇고)
         즉, 나도 keywords하면 GNB메뉴바를 따라가는것도 나쁘지 않을 것 같다.
-        [참고링크 : https://studio5ing.tistory.com/25]
+        [참조링크 : <https://studio5ing.tistory.com/25>]
 .    
     4.meta keywords의 사용법 및 주의점
         (1).meta keywords에 들어가는 키워드가 타이틀에 포함되어 있는것인가.
@@ -28,7 +28,7 @@
         (3).meta keywords에 기입된 키워드로 링크당해 지고 있는가.
             -이 부분은 meta keywords에 쓰인 키워드가 링크를 받게된것으로 보다 중요한 키워드로 검색 엔진이 인식하게 된다. 본문안에서
             링크당해지는것을 의미할지도 모른다.
-        [링크 : https://studio5ing.tistory.com/25]    
+        [참조링크 : <https://studio5ing.tistory.com/25>]    
 .    
 #####(1).전체태그
 .
@@ -49,7 +49,7 @@
         다른, 더쿠나 인스티즈 보면 단어들 사이에 공백이 없다.
         5.키워드 목록이나 키워드 구문을 10 ~20의 고유한 단어나 문구로 유지해라.
             (더쿠는 20개, 인스티즈는 대략10개 적었다.)
-        [참고링크 : https://mathbang.net/402]
+        [참고링크 : <https://mathbang.net/402>]
         
 #####(4).위치
 .
