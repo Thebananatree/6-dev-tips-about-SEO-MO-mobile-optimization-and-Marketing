@@ -13,8 +13,6 @@
     2.네이버 웹 마스터도구에 검색로봇 수집에 robots.txt파일이 없으면 노랑색 느낌표가 뜨지만, 로봇 메타 태그는 html파일에 없어도
         초록색으로 체크되는걸 보면 없어도 정상수집되는걸 알 수 있다.
         [링크 : https://wonderbout.tistory.com/99]
-.
-    3.
 .    
 아래것들도 정리
 https://wonderbout.tistory.com/99

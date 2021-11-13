@@ -13,7 +13,7 @@
         해석하여 웹페이지를 나타내라는 거다. 즉, IE=edge는 이 웹페이지를 해석하는 IE의 버전의 제일 최신방법을 써서 해석하라는 의미다.    
         단, IE11이상부터는 HTML5문서는 기본적으로 Edge로 설정되어 있어, IE11이상을 고려한 웹사이트에서는 해당 코드가 필요하지 않다.
         하지만 IE10이하의 버전에서는 고려해야 한다.
-        결론은
+        결론은 
         최신 웹 제작은 모두, X-UA-Compatible 설정시 IE=edge만 해주면된다.
         [링크 : https://cafe.naver.com/hacosa/53342]    
         [링크 : https://meaningone.tistory.com/212]   
