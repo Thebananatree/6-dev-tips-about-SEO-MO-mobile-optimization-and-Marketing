@@ -7,12 +7,12 @@
         사용자에게 결과물을 좀 더 빠르고 쉽게 제공할 수 있는 색인 또는 인덱스하는 역활을 의미한다. 그러나 robots 메타태그보다
         robots.txt 파일로 크롤링을 제어하는게 일반적이다. 아니면 둘이 같이 쓰기도 하지만, 디시인,더쿠,인스티즈는 모두(모바일,pc둘다) robots.txt
         만 사용하고 있고, 네이버만 robots 메타태그와 robots.txt를 함꼐 사용하고 있다.
-        [링크 : https://junhobaik.github.io/meta-tag/]   
-        [링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
+        [참조링크 : https://junhobaik.github.io/meta-tag/]   
+        [참조링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
 .
     2.기본적으로 robots.txt파일은 사이트의 루트 디렉토리에 저장해 두어야 한다. 예를들면, theqoo.net/robots.txt를 입력 하면 파일을 
         읽을 수 있어야 한다. theqoo.net/myfolder/robots.txt는 유효하지 않으며 제대로 작동하지 않는다.
-        [링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
+        [참조링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
 .
     3.검색엔진의 크롤러로 부터 모든 문서수집을 차단하려면 아래와 같은 내용을 robots.txt에 삽입합니다.
         User-agent: *
@@ -53,7 +53,7 @@
         로그인 기능을 통하여 보호하거나 다른 차단 방법을 사용해야 한다. 즉, 이 robots.txt로 특정 읽어야 하는 컨텐츠를 크롤링 불허한다해도 소용없으니 다른방법으로 보호해야
         한다는 뜻이다.
         예를들어, 관리자페이지, 개인 정보 페이지
-        [링크 : https://searchadvisor.naver.com/guide/seo-basic-robots]
+        [참조링크 : https://searchadvisor.naver.com/guide/seo-basic-robots]
 .    
     5.robots.txt 파일에 작성된 규칙은 같은 호스트,프로토콜 및 포트 번호 하위의 페이지에 대해서만 유효하다. 실제로, m.dcinside.com robots.txt도 따로 있고
     gall.dcinside.com/robots.txt도 따로 있다.

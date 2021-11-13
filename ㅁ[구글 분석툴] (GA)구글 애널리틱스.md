@@ -20,7 +20,7 @@ https://polygonstudio.tistory.com/158
 어떤 사용자는 우리 웹사이트에 도착해서 페이지가 다 열리기 전에 떠날 수도 있는데요, 이 때 헤드 영역에 추적코드가 심어져 있다면 사용자가
  방문해서 바로 떠났다는 정보를 수집할 수도 있습니다. 하지만 하단 영역에 있다면 스크립트가 실행되기도 전에 방문자가 떠났기에, 방문 사실 
  자체를 알 수가 없습니다.
- [링크 : https://analyticsmarketing.co.kr/digital-analytics/google-analytics-basics/2232/]
+ [참조링크 : https://analyticsmarketing.co.kr/digital-analytics/google-analytics-basics/2232/]
  
  
 -태그 종류
@@ -143,18 +143,18 @@ https://polygonstudio.tistory.com/158
    
    구글이랑 네이버 애널리틱스 둘다 사용할경우 각각 직접 코드를 넣지말고
    구글 태그 매니저를 이용해서 네이버 애널리틱스 추적코드를 그 안에 넣어라.
-    [링크 : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=1060104&docId=295271035&qb=6rWs6riALOuEpOydtOuyhCDslaDrhJDrpqzti7HsiqQg64+Z7Iuc&enc=utf8&section=kin&rank=1&search_sort=0&spq=0]
+    [참조링크 : https://kin.naver.com/qna/detail.nhn?d1id=1&dirId=1060104&docId=295271035&qb=6rWs6riALOuEpOydtOuyhCDslaDrhJDrpqzti7HsiqQg64+Z7Iuc&enc=utf8&section=kin&rank=1&search_sort=0&spq=0]
  
  .
  구글 애드센스 광고하나 태그 설치하니까(다른 GA태그 GTM태그 아예 안넣음)
  헤드태그에
- <link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.celebmine.com" as="script">
- <script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script>
- <script src="https://partner.googleadservices.com/gampad/cookie.js?domain=www.celebmine.com&amp;callback=_gfp_s_&amp;client=ca-pub-6944617508996548&amp;cookie=ID%3Dc1f4cd133b8da160%3AT%3D1593743253%3AS%3DALNI_MY4rall5d2M-53H2XA4oGATv25cEw"></script>
- <script src="https://pagead2.googlesyndication.com/pagead/js/r20200624/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script>
- <script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.celebmine.com"></script>
- <link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.celebmine.com" as="script">
- <script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.celebmine.com"></script>
+ < link rel="preload" href="https://adservice.google.co.kr/adsid/integrator.js?domain=www.celebmine.com" as="script">
+ < script src="https://www.googletagservices.com/activeview/js/current/osd.js?cb=%2Fr20100101"></script>
+ < script src="https://partner.googleadservices.com/gampad/cookie.js?domain=www.celebmine.com&amp;callback=_gfp_s_&amp;client=ca-pub-6944617508996548&amp;cookie=ID%3Dc1f4cd133b8da160%3AT%3D1593743253%3AS%3DALNI_MY4rall5d2M-53H2XA4oGATv25cEw"></script>
+ < script src="https://pagead2.googlesyndication.com/pagead/js/r20200624/r20190131/show_ads_impl_fy2019.js" id="google_shimpl"></script>
+ < script type="text/javascript" src="https://adservice.google.co.kr/adsid/integrator.js?domain=www.celebmine.com"></script>
+ < link rel="preload" href="https://adservice.google.com/adsid/integrator.js?domain=www.celebmine.com" as="script">
+ < script type="text/javascript" src="https://adservice.google.com/adsid/integrator.js?domain=www.celebmine.com"></script>
  이 뜨고,
  body 닫힌 태그 바로 앞에
  <ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-pointer-lock allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-6944617508996548&amp;output=html&amp;adk=1812271804&amp;adf=1573534164&amp;lmt=1593756851&amp;plat=1%3A32776%2C2%3A32776%2C8%3A32768%2C9%3A32776%2C10%3A32%2C11%3A32%2C16%3A8388608%2C17%3A32%2C24%3A32%2C25%3A32%2C30%3A34603008%2C32%3A32%2C40%3A32&amp;guci=2.2.0.0.2.2.0.0&amp;format=0x0&amp;url=http%3A%2F%2Fwww.celebmine.com%2F&amp;ea=0&amp;flash=0&amp;pra=7&amp;wgl=1&amp;dt=1593756851247&amp;bpp=3&amp;bdt=110&amp;idt=61&amp;shv=r20200624&amp;cbv=r20190131&amp;ptt=9&amp;saldr=aa&amp;abxe=1&amp;cookie=ID%3Dc1f4cd133b8da160%3AT%3D1593743253%3AS%3DALNI_MY4rall5d2M-53H2XA4oGATv25cEw&amp;prev_fmts=991x495&amp;nras=1&amp;correlator=7823933172061&amp;frm=20&amp;pv=1&amp;ga_vid=2078071265.1593658737&amp;ga_sid=1593756851&amp;ga_hid=679898098&amp;ga_fc=0&amp;iag=0&amp;icsg=2218&amp;dssz=7&amp;mdo=0&amp;mso=0&amp;u_tz=540&amp;u_his=3&amp;u_java=0&amp;u_h=864&amp;u_w=1536&amp;u_ah=824&amp;u_aw=1536&amp;u_cd=24&amp;u_nplug=3&amp;u_nmime=4&amp;adx=-12245933&amp;ady=-12245933&amp;biw=1007&amp;bih=695&amp;scr_x=0&amp;scr_y=0&amp;eid=42530493%2C42530495%2C42530499%2C42530501&amp;oid=3&amp;pvsid=207224345668863&amp;pem=165&amp;rx=0&amp;eae=2&amp;fc=896&amp;brdim=1%2C5%2C1%2C5%2C1536%2C0%2C1039%2C815%2C1024%2C695&amp;vis=1&amp;rsz=%7C%7Cs%7C&amp;abl=NS&amp;fu=8208&amp;bc=23&amp;ifi=1&amp;uci=a!1&amp;fsb=1&amp;dtd=67" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true"></iframe></ins></ins></ins>

@@ -7,12 +7,12 @@
         사용자에게 결과물을 좀 더 빠르고 쉽게 제공할 수 있는 색인 또는 인덱스하는 역활을 의미한다. 그러나 robots 메타태그보다
         robots.txt 파일로 크롤링을 제어하는게 일반적이다. 아니면 둘이 같이 쓰기도 하지만, 디시인,더쿠,인스티즈는 모두(모바일,pc둘다) robots.txt
         만 사용하고 있고, 네이버만 robots 메타태그와 robots.txt를 함꼐 사용하고 있다.
-        [링크 : https://junhobaik.github.io/meta-tag/]   
-        [링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
+        [참조링크 : https://junhobaik.github.io/meta-tag/]   
+        [참조링크 : http://www.seo-korea.com/robots-txt-%ED%8C%8C%EC%9D%BC%EA%B3%BC-meta-robots-%ED%83%9C%EA%B7%B8%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90/]
 .
     2.네이버 웹 마스터도구에 검색로봇 수집에 robots.txt파일이 없으면 노랑색 느낌표가 뜨지만, 로봇 메타 태그는 html파일에 없어도
         초록색으로 체크되는걸 보면 없어도 정상수집되는걸 알 수 있다.
-        [링크 : https://wonderbout.tistory.com/99]
+        [참조링크 : https://wonderbout.tistory.com/99]
 .    
 아래것들도 정리
 https://wonderbout.tistory.com/99

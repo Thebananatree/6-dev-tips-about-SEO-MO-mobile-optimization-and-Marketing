@@ -4,7 +4,7 @@
 .
     1.og(오픈그래프 태그)는 페이스북에서 만든 태그로, 페이스북의 대부분의 콘텐츠는 url로 공유되는데, url입력시 facebook에 콘텐츠가 표시되는 방식을 관리하기
         위해 정보를 제공하는 meta태그를 만들었다. 이는 현제, 네이버(블로그,지식in),티스토리(블로그)와 카카오, 트위터(일부분)에서도 사용되고 있다.
-        [링크 : https://blog.naver.com/hightch/221995979923]
+        [참조링크 : https://blog.naver.com/hightch/221995979923]
 .
     2.각각의 매체에 여러 URL을 적용해보았다.(PC버전, 모바일&어플에서 URL 확인)
         (1).네이버 지식in 
@@ -64,28 +64,28 @@
 ####(4).타 웹사이트 태그예시   
 . 
         1.인스티즈
-            [링크 : https://www.instiz.net/pt/6756991]
+            [참조링크 : https://www.instiz.net/pt/6756991]
                 < meta property="og:title" content="2004년경 유행했다는 중학생 패션.jpg">
                 < title>2004년경 유행했다는 중학생 패션.jpg - 인스티즈(instiz) 인티포털< /title>
-            [링크 : https://www.instiz.net/name/37227136]
+            [참조링크 : https://www.instiz.net/name/37227136]
                 < meta property="og:title" content="여행일정 어떤지봐죠ㅋㅋㅋ😊😍">
                 < title>여행일정 어떤지봐죠ㅋㅋㅋ😊😍 - 인스티즈(instiz) 익명잡담< /title>
         2.더쿠
-            [링크 : https://theqoo.net/cook/1515298974]
+            [참조링크 : https://theqoo.net/cook/1515298974]
                 < meta property="og:title" content="포테이토 피자&amp;#x1f355; - 요리 카테고리">
                 < title>포테이토 피자🍕 - 요리 카테고리< /title>
         3.디시인사이드
-            [링크 : https://gall.dcinside.com/board/view/?id=hit&no=15891]
+            [참조링크 : https://gall.dcinside.com/board/view/?id=hit&no=15891]
                 < meta property="og:title" content="[스압] 평범한 가정식 저녁밥상 (6월) - HIT 갤러리">
                 < title>[스압] 평범한 가정식 저녁밥상 (6월) - HIT 갤러리< /title>
         4.네이버
-            [링크 : https://www.naver.com/]   
+            [참조링크 : https://www.naver.com/]   
                 < meta property="og:title" content="네이버">
                 < title>NAVER< /title>
-            [링크 : https://blog.naver.com/ton0070/221999067935]
+            [참조링크 : https://blog.naver.com/ton0070/221999067935]
                 x(못찾음)
                 < title>[국민] 정국이 지민에게 미안했던 것 : 네이버 블로그< /title>
         5.셀럽마인
-            [링크 : http://www.celebmine.com/]   
-            [링크 : http://celebmine.com/hi1/detail.html]
+            [참조링크 : http://www.celebmine.com/]   
+            [참조링크 : http://celebmine.com/hi1/detail.html]
 .
