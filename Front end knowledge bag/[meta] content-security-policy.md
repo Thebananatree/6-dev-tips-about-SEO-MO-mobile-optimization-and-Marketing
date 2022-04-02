@@ -1,0 +1,7 @@
+1.보안과 관련있는거 할 때 다시하기 2.https관련 공부할때와 같이하기 3.그리고,
+추가로 확인할께, https의 웹페이지에서 http경로를 쓰면 혼합컨텐츠로 인지되니, 이것도
+내가 일일히 고쳐야 되는것 같은데 아닌가? 이것도 확인하고 4.그리고 http의 혼합컨텐츠가 도대체
+어떻게 어떤 방식으로 위협을 주기떄문에 이 태그를 써야하는지도 알기 5.마지막으로 front-end meta태그 관련
+content-security-policy 정리 끝내기 6.그리고 과연 이게 더쿠에만 있는태그인데, 쓸만한건가. 7.+아래 링크 중 하날 보면 위에 있는 태그를 보면 작동을 잘 안하는 스크립트,이미지,css가 있다는데 그것도 고려하기 https://blog.naver.com/PostView.nhn?blogId=wincert&logNo=221746928037&parentCategoryNo=&categoryNo=12&viewDate=&isShowPopularPosts=true&from=search 355pg - https://books.google.co.kr/books?id=xPaTDwAAQBAJ&pg=PA355&lpg=PA355&dq=content+security+policy+upgrade+insecure+requests%ED%83%9C%EA%B7%B8&source=bl&ots=YjlrVcRuZw&sig=ACfU3U0NkX8ohCLJ53sfS9DqWAr7_o3Plw&hl=ko&sa=X&ved=2ahUKEwjX0bb1vb_qAhUcK6YKHaZwAq4Q6AEwBnoECAoQAQ#v=onepage&q=content%20security%20policy%20upgrade%20insecure%20requests%ED%83%9C%EA%B7%B8&f=false https://blog.naver.com/on21life/221955699858 https://dololak.tistory.com/611 http://blog.naver.com/cr0sscert/221813787506 https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content?hl=ko https://developers.google.com/web/fundamentals/security/csp/?hl=ko https://simjaejin.tistory.com/31
+
+이거 https랑 연관해서 먼가 오류가 있다는데 ?
